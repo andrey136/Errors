@@ -12,3 +12,5 @@ Consider the following two cases that throw this error:
 Solution
 * The error is resolved by toggling the *allow-unrelated-histories* switch. After a **git pull** or **git merge** command, add the following tag: __git pull origin master --allow-unrelated-histories__
 
+[Sorce-Website: https://www.educative.io/edpresso/the-fatal-refusing-to-merge-unrelated-histories-git-error](https://www.educative.io/edpresso/the-fatal-refusing-to-merge-unrelated-histories-git-error)
+
